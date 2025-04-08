@@ -2,9 +2,7 @@
 
 - Môn học: Phân tích thiết kế phần mềm
 - Tên nhóm: 469
-- Thành viên nhóm:
-- [Trần Lâm Hồng Liên](https://github.com/GonhNiel05) – Trưởng nhóm
-- [Trần Thị Ngọc Hân](https://github.com/HanTrinhTranMinh)
+- Thành viên nhóm: [Trần Lâm Hồng Liên](https://github.com/GonhNiel05) – Trưởng nhóm, [Trần Thị Ngọc Hân](https://github.com/HanTrinhTranMinh)
 - Trường: Đại học Ngoại ngữ và tin học TP.HCM (HUFLIT)
 - Năm học: HK2 2024 - 2025
 
